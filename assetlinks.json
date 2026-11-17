@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kikstore.app",
+      "sha256_cert_fingerprints": [
+        "71:52:2D:5B:8F:46:DA:4E:4F:51:2B:C4:AA:EF:47:E6:C6:F7:8B:9D:97:E3:61:48:EC:01:32:0D:FA:73:46:BA",
+        "SHA256_ОТПЕЧАТОК"
+      ]
+    }
+  }
+]
